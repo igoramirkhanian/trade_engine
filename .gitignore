@@ -1,19 +1,17 @@
 
-# Кеши Python
+# Python cache
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
 
-# Виртуальные окружения
-env/
+# Virtual environments
 venv/
-.env
+.env/
 
-# IDE
-.idea/
+# IDE / OS
 .vscode/
+.idea/
+.DS_Store
 
-# Логи и временные файлы
+# PyDroid / Android
 *.log
 
